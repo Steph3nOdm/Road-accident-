@@ -1,7 +1,7 @@
 ### Road Accident Dashboard - Overview  
 
 The **Road Accident Dashboard** provides a comprehensive analysis of road traffic accidents, highlighting key metrics such as casualty types, vehicle involvement, road conditions, and accident trends. It is designed to aid decision-makers in identifying risk factors and implementing data-driven strategies to improve road safety.  
-![Uploading Screenshot 2024-11-16 154428.png…]()
+![Screenshot 2024-11-16 154428](https://github.com/user-attachments/assets/49b0938b-463a-42cc-a8eb-536ce80c43b0)
 
 ---
 
